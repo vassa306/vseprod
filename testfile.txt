@@ -2,4 +2,6 @@ Ahoj tohle je muj treti commit v repu
 ne
 ne
 ne
-
+a
+b
+cq
