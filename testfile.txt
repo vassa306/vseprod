@@ -1,4 +1,5 @@
 Ahoj tohle je muj treti commit v repu
-a
-b
-c
+ne
+ne
+ne
+
